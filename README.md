@@ -21,3 +21,4 @@ To run this program, users need the Java Development Kit (JDK) installed on thei
 In summary, this program serves as a fundamental example of file handling in Java. It teaches how to use file I/O classes, handle exceptions, take user input, and create a reusable and interactive menu system. The structure is modular and readable, with each operation placed inside its own method. This makes the code easier to understand, maintain, and expand. Whether used as a learning project or a utility tool, it effectively demonstrates the real-world use of Java for managing text files.
 
 OUTPUT:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fdf34dba-5bd1-4f16-8829-5887bffd56bd" />
